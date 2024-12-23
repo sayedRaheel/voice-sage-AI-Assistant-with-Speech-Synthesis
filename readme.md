@@ -3,6 +3,10 @@
 ## Overview
 This application is a full-stack chat assistant made by Sayed Raheel Hussain that supports both voice and text interactions. It transcribes voice input, processes it through LLMs, and provides both text and audio responses.
 
+<div>
+  <img src="/image/UI.png" alt="NutriDetect" />
+</div>
+
 ## Features
 - Voice recording and transcription
 - Text input support
