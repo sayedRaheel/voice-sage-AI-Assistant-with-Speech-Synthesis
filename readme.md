@@ -21,7 +21,7 @@ This application is a full-stack chat assistant made by Sayed Raheel Hussain tha
 - Node.js (v14 or higher)
 - Python (v3.8 or higher)
 - OpenAI API key
-- Groq API key
+- Groq API key (https://groq.com)
 
 ## Project Structure
 ```
